@@ -2,3 +2,5 @@
 *.beam
 /ebin/*.app
 /rebar.lock
+_build/
+_checkouts/
